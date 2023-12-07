@@ -3,17 +3,12 @@ function getQueryParam(name) {
     return urlParams.get(name);
 }
 
-  // Check if the request URL endpoint is "index.php" and has a query parameter "id"
-  const endpoint = window.location.pathname;
-if (endpoint.endsWith("index.php")) {
-    const id = getQueryParam("id");
+const id = getQueryParam("id");
 
-    if (id) {
-      // Call the handleEvent function with the id as an argument
-      handleEvent(id);
-    } else {
-      console.log("Query parameter 'id' is missing in the request URL.");
-    }
+if (id) {
+    handleEvent(id);
+} else {
+    console.log("Query parameter 'id' is missing in the request URL.");
 }
 async function getAccessToken() {
     try {
