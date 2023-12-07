@@ -3,13 +3,8 @@ function getQueryParam(name) {
     return urlParams.get(name);
 }
 
-const id = getQueryParam("id");
-
-if (id) {
-    handleEvent(id);
-} else {
-    console.log("Query parameter 'id' is missing in the request URL.");
-}
+  // Check if the request URL endpoint is "index.php" and has a query parameter "id"
+  
 async function getAccessToken() {
     try {
       const response = await fetch('https://auth-jiocinema.voot.com/tokenservice/apis/v4/guest', {
@@ -69,7 +64,10 @@ async function handleEvent(id) {
         let playbackObj = playbackUrls.find((obj) => obj.streamtype === 'hls');
         if (playbackObj && playbackObj.url) {
           // Redirect to the video_token URL
-          window.location.replace(playbackObj.url);
+            const video = document.getElementById('video');
+            const hls = new Hls();
+            hls.loadSource(playbackObj.url);
+            hls.attachMedia(video);
         } else {
           console.log('No playback URL found');
         }
@@ -81,5 +79,13 @@ async function handleEvent(id) {
     }
 }
 
+const endpoint = window.location.pathname;
+  const id = getQueryParam("id");
 
+  if (id) {
+    // Call the handleEvent function with the id as an argument
+    handleEvent(id);
+  } else {
+    console.log("Query parameter 'id' is missing in the request URL.");
+  }
     
