@@ -4,7 +4,7 @@ function getQueryParam(name) {
 }
 
   // Check if the request URL endpoint is "index.m3u8"
-if (window.location.pathname.endsWith("index.m3u8")) {
+if (window.location.pathname.endsWith("index.php")) {
     // Get the value of the "id" query parameter
     const idValue = getQueryParam("id");
 
