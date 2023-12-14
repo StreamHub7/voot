@@ -151,7 +151,7 @@ https://stream.udx.workers.dev/index.php?c=setmax2
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="http://go.justflix.tv/images/indialogo/INUKB4UPLUS.png" ,B4u Movies
 https://stream.udx.workers.dev/index.php?c=b4umovies
 
-#EXTINF:-1 tvg-id="" , Shemaroo Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" , Shemaroo Bollywood HD
 https://stream.udx.workers.dev/index.php?c=shemaroo
 
 #EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
@@ -196,7 +196,7 @@ https://stream.udx.workers.dev/index.php?c=colorsinfinityhd
 #EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://exchange4media.gumlet.io/news-photo/1518144333_MALtTY_unnamed.jpg",Star Plus HD
 https://stream.udx.workers.dev/index.php?c=starplushd
 
-#EXTINF:-1 tvg-name="Star Bharat India HD" tvg-logo="http://go.justflix.tv/images/india/Star_Bharat_HD.png",Star Bharat India HD
+#EXTINF:-1 tvg-name="Star Bharat India HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png",Star Bharat India HD
 https://stream.udx.workers.dev/index.php?c=starbharat
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors TV HD
