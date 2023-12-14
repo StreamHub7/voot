@@ -251,7 +251,7 @@ https://stream.udx.workers.dev/index.php?c=mastii
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/227-2276139_desi-channel-logo-desi-channel.png" group-title="Music", DESI CHENNEL
+#EXTINF:0 tvg-logo="http://karytv.com/wp-content/uploads/2015/05/desi-logo-1024x537.png" group-title="Music", DESI CHENNEL
 https://stream.udx.workers.dev/index.php?c=desi
 
 
