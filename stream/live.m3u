@@ -120,7 +120,7 @@ https://zee5.udx.workers.dev/0-9-tvpictureshd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png", Star Gold HD
 https://stream.udx.workers.dev/index.php?c=stargoldhd
 
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg", Star Gold Select HD
+#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg", Star Gold Select HD
 https://stream.udx.workers.dev/index.php?c=stargoldselect
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplor.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
@@ -230,36 +230,36 @@ https://stream.udx.workers.dev/index.php?c=colorsrishtey
 
 
 
-#EXTINF:-1 group-title="Music", MTV BEATS HD
+#EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/22130353/mtv_beats.png" group-title="Music", MTV BEATS HD
 https://stream.udx.workers.dev/index.php?c=mtvbeats
 
-#EXTINF:-1 group-title="Music", MTV HD+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MTV_HD_Logo_2015.svg/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD+
 https://stream.udx.workers.dev/index.php?c=mtv
 
-#EXTINF:0 group-title="Music", 9XM
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/910/1/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png" group-title="Music", 9XM
 https://dishtv.udx.workers.dev/9xm/index.m3u8
 
-#EXTINF:0 group-title="Music", 9XM JALWA
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg" group-title="Music", 9XM JALWA
 https://dishtv.udx.workers.dev/9x-jalwa/index.m3u8
 
-#EXTINF:0 group-title="Music", 9XM TASHAN
+#EXTINF:0 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music", 9XM TASHAN
 https://dishtv.udx.workers.dev/9x-tashan/index.m3u8
 
-#EXTINF:0 group-title="Music", Maatii Music
+#EXTINF:0 tvg-logo="https://mastiii.com/images/mastiii-logo-mew.png" group-title="Music", Maatii Music
 https://stream.udx.workers.dev/index.php?c=mastii
 
-#EXTINF:-1 group-title="Music", Music India
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
 
-#EXTINF:0 group-title="Music", DESI CHENNEL
+#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/227-2276139_desi-channel-logo-desi-channel.png" group-title="Music", DESI CHENNEL
 https://stream.udx.workers.dev/index.php?c=desi
 
 
-#EXTINF:0 group-title="Music", Boogle Bollywood
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg" group-title="Music", Boogle Bollywood
 https://stream.udx.workers.dev/index.php?c=boogle
 
 
-#EXTINF:0 group-title="Music", Show Box
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png" group-title="Music", Show Box
 https://stream.udx.workers.dev/index.php?c=showbox
 
 
