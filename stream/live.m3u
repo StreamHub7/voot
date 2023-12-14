@@ -157,13 +157,13 @@ https://stream.udx.workers.dev/index.php?c=shemaroo
 #EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
 https://zee5.udx.workers.dev/0-9-zeeanmolcinema/index.m3u8
 
-#EXTINF:-1 tvg-chno="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood 
+#EXTINF:-1 tvg-chno="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood 
 https://zee5.udx.workers.dev/0-9-zeeclassic/index.m3u8
 
 #EXTINF:-1 tvg-chno="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action 
 https://zee5.udx.workers.dev/0-9-zeeaction/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="Zee Classic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
+#EXTINF:-1 tvg-chno="488" tvg-name="Zee Classic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg"  tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
 https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
 
