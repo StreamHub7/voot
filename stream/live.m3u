@@ -44,6 +44,8 @@ https://stream.udx.workers.dev/index.php?c=ten4
 https://stream.udx.workers.dev/index.php?c=ten5
 
 
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
+https://stream.udx.workers.dev/index.php?c=news24
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="1: AAJTAK HD" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",AAJ TAK HD
 https://stream.udx.workers.dev/index.php?c=aajtak
@@ -74,9 +76,6 @@ https://stream.udx.workers.dev/index.php?c=gntnews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
 https://stream.udx.workers.dev/index.php?c=news-nation
-
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
-https://stream.udx.workers.dev/index.php?c=news24
 
 #EXTINF:-1 tvg-chno="652" tvg-name="Zee Hindustan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
 https://news.udx.workers.dev/zeehindustan/index.m3u8
