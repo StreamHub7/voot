@@ -168,7 +168,7 @@ https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" ,Star Movies India HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" , HBO HD
 https://stream.udx.workers.dev/index.php?c=hbohd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" , Movies Now
