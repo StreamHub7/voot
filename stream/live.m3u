@@ -1,48 +1,48 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://go.justflix.tv/images/sports/willowcricketfullhd.png" ,Willow Cricket HD
-https://stream.udx.workers.dev/index.php?c=willowhd
+https://livehub.udx.workers.dev/index.php?c=willowhd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://go.justflix.tv/images/sports/astrocricketfullhd.png" , Astro Cricket HD
-https://stream.udx.workers.dev/index.php?c=astrocricket
+https://livehub.udx.workers.dev/index.php?c=astrocricket
 
 #EXTINF:0 tvg-id="ts78" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-https://stream.udx.workers.dev/index.php?c=ssp1
+https://livehub.udx.workers.dev/index.php?c=ssp1
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-https://stream.udx.workers.dev/index.php?c=ssp1hin
+https://livehub.udx.workers.dev/index.php?c=ssp1hin
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://go.justflix.tv/images/india/starsp2.png" ,Star Sports 2 India HD
-https://stream.udx.workers.dev/index.php?c=ssp2
+https://livehub.udx.workers.dev/index.php?c=ssp2
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png",Sports 18 HD
-https://stream.udx.workers.dev/index.php?c=sports18
+https://livehub.udx.workers.dev/index.php?c=sports18
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sports18_Khel.png",Sports 18 Khel HD
-https://stream.udx.workers.dev/index.php?c=sports18khel
+https://livehub.udx.workers.dev/index.php?c=sports18khel
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png",Jio Cinema 4k FHD
-https://stream.udx.workers.dev/index.php?c=jiocinema
+https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
-https://stream.udx.workers.dev/index.php?c=ten1
+https://livehub.udx.workers.dev/index.php?c=ten1
 
 
 #EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony  TEN 2 HD
-https://stream.udx.workers.dev/index.php?c=ten2
+https://livehub.udx.workers.dev/index.php?c=ten2
 
 
 #EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
-https://stream.udx.workers.dev/index.php?c=ten3
+https://livehub.udx.workers.dev/index.php?c=ten3
 
 
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
-https://stream.udx.workers.dev/index.php?c=ten4
+https://livehub.udx.workers.dev/index.php?c=ten4
 
 
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
-https://stream.udx.workers.dev/index.php?c=ten5
+https://livehub.udx.workers.dev/index.php?c=ten5
 
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
