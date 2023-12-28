@@ -44,9 +44,29 @@ https://livehub.udx.workers.dev/index.php?c=ten4
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
 https://livehub.udx.workers.dev/index.php?c=ten5
 
-
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
+https://livehub.udx.workers.dev/index.php?c=news-nation
+
+#EXTINF:-1 tvg-chno="652" tvg-name="Zee Hindustan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
+https://news.udx.workers.dev/zeehindustan/index.m3u8
+
+#EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
+https://livehub.udx.workers.dev/index.php?c=ndtvindia
+
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
+https://livehub.udx.workers.dev/index.php?c=indianews
+
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
+https://livehub.udx.workers.dev/index.php?c=tv9
+
+#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png", Zee NEWS UP/UK
+https://news.udx.workers.dev/zeeup/index.m3u8
+
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 Uttar Pradesh Uttarakhand
+https://livehub.udx.workers.dev/index.php?c=news18up
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="1: AAJTAK HD" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",AAJ TAK HD
 https://stream.udx.workers.dev/index.php?c=aajtak
@@ -74,27 +94,6 @@ https://stream.udx.workers.dev/index.php?c=rbharat
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://bestmediainfo.com/uploads/2021/06/gnt_logo_9.jpg", GNT NEWS
 https://stream.udx.workers.dev/index.php?c=gntnews
-
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
-https://livehub.udx.workers.dev/index.php?c=news-nation
-
-#EXTINF:-1 tvg-chno="652" tvg-name="Zee Hindustan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
-https://news.udx.workers.dev/zeehindustan/index.m3u8
-
-#EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
-https://livehub.udx.workers.dev/index.php?c=ndtvindia
-
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
-https://livehub.udx.workers.dev/index.php?c=indianews
-
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
-https://livehub.udx.workers.dev/index.php?c=tv9
-
-#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png", Zee NEWS UP/UK
-https://news.udx.workers.dev/zeeup/index.m3u8
-
-#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 Uttar Pradesh Uttarakhand
-https://livehub.udx.workers.dev/index.php?c=news18up
 
 
 
