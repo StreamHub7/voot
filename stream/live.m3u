@@ -122,6 +122,12 @@ https://livehub.udx.workers.dev/index.php?c=stargoldhd
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg", Star Gold Select HD
 https://livehub.udx.workers.dev/index.php?c=stargoldselect
 
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thrill
+http://go.justflix.tv:80/client106/strawbees7/27
+
+#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="" group-title="PUNJABI",|Punjabi|  Mh1 HD
+http://go.justflix.tv:80/client106/strawbees7/181
+
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
 https://zee5.udx.workers.dev/0-9-209/index.m3u8
 
@@ -237,6 +243,9 @@ https://livehub.udx.workers.dev/index.php?c=mtv
 
 #EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/910/1/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png" group-title="Music", 9XM
 https://dishtv.udx.workers.dev/9xm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoom India" tvg-logo="http://go.justflix.tv/images/india/ZOOM.png" group-title="Music",Zoom
+http://go.justflix.tv:80/client106/strawbees7/57
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg" group-title="Music", 9XM JALWA
 https://dishtv.udx.workers.dev/9x-jalwa/index.m3u8
