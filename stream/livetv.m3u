@@ -108,10 +108,10 @@ https://streamhub.udx.workers.dev/index.php?c=setmaxhd
 https://streamhub.udx.workers.dev/index.php?c=cineplexhd
 
 #EXTINF:-1 tvg-chno="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
-https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeecinemahd/index.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
-https://zee5.udx.workers.dev/0-9-tvpictureshd/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-tvpictureshd/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png", Star Gold HD
 https://streamhub.udx.workers.dev/index.php?c=stargoldhd
@@ -120,7 +120,7 @@ https://streamhub.udx.workers.dev/index.php?c=stargoldhd
 https://streamhub.udx.workers.dev/index.php?c=stargoldselect
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
-https://zee5.udx.workers.dev/0-9-209/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-209/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png",CC Bollywood
 https://streamhub.udx.workers.dev/index.php?c=ccbollywood
@@ -133,13 +133,13 @@ https://streamhub.udx.workers.dev/index.php?c=ccsuperhits
 https://streamhub.udx.workers.dev/index.php?c=setmax
 
 #EXTINF:-1 tvg-chno="1839" tvg-name="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
-https://zee5.udx.workers.dev/0-9-pictures/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-pictures/index.m3u8
 
 #EXTINF:-1 tvg-chno="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
-https://zee5.udx.workers.dev/0-9-zeecinema/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeecinema/index.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-name="Zing" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zing 
-https://zee5.udx.workers.dev/0-9-zing/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zing/index.m3u8
 
 #EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png", SONY MAX 2
 https://streamhub.udx.workers.dev/index.php?c=setmax2
@@ -151,16 +151,16 @@ https://streamhub.udx.workers.dev/index.php?c=b4umovies
 https://streamhub.udx.workers.dev/index.php?c=shemaroo
 
 #EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
-https://zee5.udx.workers.dev/0-9-zeeanmolcinema/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeeanmolcinema/index.m3u8
 
 #EXTINF:-1 tvg-chno="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood 
-https://zee5.udx.workers.dev/0-9-zeeclassic/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeeclassic/index.m3u8
 
 #EXTINF:-1 tvg-chno="488" tvg-name="Zee Action" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action 
-https://zee5.udx.workers.dev/0-9-zeeaction/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeeaction/index.m3u8
 
 #EXTINF:-1 tvg-chno="488" tvg-name="Zee Classic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg"  tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
-https://zee5.udx.workers.dev/0-9-176/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-176/index.m3u8
 
 
 
@@ -171,10 +171,10 @@ https://streamhub.udx.workers.dev/index.php?c=hbohd
 https://streamhub.udx.workers.dev/index.php?c=starmovies
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&flix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
-https://zee5.udx.workers.dev/0-9-channel_2105335046/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-channel_2105335046/index.m3u8
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&prive HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &prive HD 
-https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-privéhd/index.m3u8
 
 #EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX HD
 https://streamhub.udx.workers.dev/index.php?c=sonypixhd
@@ -203,14 +203,14 @@ https://streamhub.udx.workers.dev/index.php?c=colorshd
 https://streamhub.udx.workers.dev/index.php?c=sonytvhd
 
 #EXTINF:-1 tvg-chno="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
-https://zee5.udx.workers.dev/0-9-zeetvhd/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-zeetvhd/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png", SONY WAH
 https://streamhub.udx.workers.dev/index.php?c=sonywah
 
 
 #EXTINF:-1 tvg-chno="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD 
-https://zee5.udx.workers.dev/0-9-tvhd_0/index.m3u8
+https://streamhub7.udx.workers.dev/0-9-tvhd_0/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/d4/Sony_Sab_new_logo.png", SONY SAB HD
 https://streamhub.udx.workers.dev/index.php?c=sonysabhd
