@@ -23,23 +23,23 @@ https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
-https://livehub.udx.workers.dev/index.php?c=ten1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony  TEN 2 HD
-https://livehub.udx.workers.dev/index.php?c=ten2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
-https://livehub.udx.workers.dev/index.php?c=ten3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
-https://livehub.udx.workers.dev/index.php?c=ten4
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
-https://livehub.udx.workers.dev/index.php?c=ten5
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
 
@@ -102,13 +102,14 @@ https://livehub.udx.workers.dev/index.php?c=news18up
 
 
 
-
+#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png", SONY TV HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png", SONY MAX HD
-https://livehub.udx.workers.dev/index.php?c=setmaxhd
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://i.imgur.com/Hvvjfk5.png",Colors Cineplex HD
-https://livehub.udx.workers.dev/index.php?c=cineplexhd
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-chno="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
 https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
@@ -138,7 +139,7 @@ https://livehub.udx.workers.dev/index.php?c=ccbollywood
 https://livehub.udx.workers.dev/index.php?c=ccsuperhits
 
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV - CodeCrafters",Sony MAX
-https://livehub.udx.workers.dev/index.php?c=setmax
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
 #EXTINF:-1 tvg-chno="1839" tvg-name="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
 https://zee5.udx.workers.dev/0-9-pictures/index.m3u8
@@ -150,7 +151,7 @@ https://zee5.udx.workers.dev/0-9-zeecinema/index.m3u8
 https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 
 #EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png", SONY MAX 2
-https://livehub.udx.workers.dev/index.php?c=setmax2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="http://go.justflix.tv/images/indialogo/INUKB4UPLUS.png" ,B4u Movies
 https://livehub.udx.workers.dev/index.php?c=b4umovies
@@ -185,7 +186,7 @@ https://zee5.udx.workers.dev/0-9-channel_2105335046/index.m3u8
 https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
 
 #EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX HD
-https://livehub.udx.workers.dev/index.php?c=sonypixhd
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title="English Movies" tvg-id="ComedyCentralIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",Comedy Central HD
 https://livehub.udx.workers.dev/index.php?c=comedycentralhd
@@ -207,21 +208,18 @@ https://livehub.udx.workers.dev/index.php?c=starbharat
 #EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors TV HD
 https://livehub.udx.workers.dev/index.php?c=colorshd
 
-#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png", SONY TV HD
-https://livehub.udx.workers.dev/index.php?c=sonytvhd
-
 #EXTINF:-1 tvg-chno="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
 https://zee5.udx.workers.dev/0-9-zeetvhd/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png", SONY WAH
-https://livehub.udx.workers.dev/index.php?c=sonywah
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 
 #EXTINF:-1 tvg-chno="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD 
 https://zee5.udx.workers.dev/0-9-tvhd_0/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/d4/Sony_Sab_new_logo.png", SONY SAB HD
-https://livehub.udx.workers.dev/index.php?c=sonysabhd
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="38: SONY PAL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/sony_pal_23oct_masthead_logo.png", SONY PAL
 https://livehub.udx.workers.dev/index.php?c=sonypal
@@ -236,10 +234,10 @@ https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 
 
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/22130353/mtv_beats.png" group-title="Music", MTV BEATS HD
-https://livehub.udx.workers.dev/index.php?c=mtvbeats
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MTV_HD_Logo_2015.svg/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD+
-https://livehub.udx.workers.dev/index.php?c=mtv
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/910/1/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png" group-title="Music", 9XM
 https://dishtv.udx.workers.dev/9xm/index.m3u8
@@ -260,11 +258,11 @@ https://livehub.udx.workers.dev/index.php?c=mastii
 https://dishtv.udx.workers.dev/music-india/index.m3u8
 
 #EXTINF:0 tvg-logo="http://karytv.com/wp-content/uploads/2015/05/desi-logo-1024x537.png" group-title="Music", DESI CHENNEL
-https://livehub.udx.workers.dev/index.php?c=desi
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg" group-title="Music", Boogle Bollywood
-https://livehub.udx.workers.dev/index.php?c=boogle
+https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png" group-title="Music", Show Box
@@ -277,10 +275,10 @@ https://livehub.udx.workers.dev/index.php?c=showbox
 
 
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
-https://livehub.udx.workers.dev/index.php?c=sonyyay
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic Nickelodeon Hindi
-https://livehub.udx.workers.dev/index.php?c=sonic
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
