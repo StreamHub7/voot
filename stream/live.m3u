@@ -268,7 +268,7 @@ https://livehub.udx.workers.dev/index.php?c=boogle
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png" group-title="Music", Show Box
-https://stream.udx.workers.dev/index.php?c=showbox
+https://livehub.udx.workers.dev/index.php?c=showbox
 
 
 
@@ -277,10 +277,10 @@ https://stream.udx.workers.dev/index.php?c=showbox
 
 
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
-https://stream.udx.workers.dev/index.php?c=sonyyay
+https://livehub.udx.workers.dev/index.php?c=sonyyay
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic Nickelodeon Hindi
-https://stream.udx.workers.dev/index.php?c=sonic
+https://livehub.udx.workers.dev/index.php?c=sonic
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
@@ -290,10 +290,10 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback
 
 
 #EXTINF:-1 tvg-chno="593" tvg-name="Sadhna" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/593/index.m3u8" catchup-days="7", Sadhna 
-https://stream.udx.workers.dev/index.php?c=sadhna
+https://livehub.udx.workers.dev/index.php?c=sadhna
 
 
 #EXTINF:-1 tvg-chno="175" tvg-name="Aastha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/175/index.m3u8" catchup-days="7", Aastha 
-https://stream.udx.workers.dev/index.php?c=asthatv
+https://livehub.udx.workers.dev/index.php?c=asthatv
 
 
