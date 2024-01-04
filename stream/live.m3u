@@ -49,7 +49,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 https://livehub.udx.workers.dev/index.php?c=aajtak
 
 #EXTINF:0 tvg-id="ZeeNews.uk" group-title="News" tvg-name="2: ZEE NEWS" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.png",ZEE NEWS
-https://livehub.udx.workers.dev/zeenews/index.m3u8
+https://news.udx.workers.dev/zeenews/index.m3u8
 
 #EXTINF:0 tvg-id="IBN7.in" group-title="News" tvg-name="3: NEWS 18 INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",NEWS 18
 https://livehub.udx.workers.dev/index.php?c=news18
