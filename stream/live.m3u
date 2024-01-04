@@ -125,7 +125,7 @@ https://livehub.udx.workers.dev/index.php?c=stargoldselect
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thrill
 http://go.justflix.tv:80/client106/strawbees7/27
 
-#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="" group-title="PUNJABI", Mh1 HD
+#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png" group-title="PUNJABI", Mh1 HD
 http://go.justflix.tv:80/client106/strawbees7/181
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
