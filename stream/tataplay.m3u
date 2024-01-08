@@ -1,5 +1,5 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U3876+ousu0yr1dJkBJIFw","kid":"ap5CBPP4V36/bnmzsYVz+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=24&key
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://bolt-logoz.toxictvhost.workers.dev/24.png" group-title="TATA PLAY - SPORTS", Star Sports 1 Hindi HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
