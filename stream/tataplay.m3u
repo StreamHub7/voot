@@ -13,6 +13,6 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifes
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"s9Fpar2oS+eDUoPbJPAo2g", "kid":"ap5CBPP4V36/bnmzsYVz+A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mgTweZhAQoarkuZb4IhflQ", "kid":"ap5CBPP4V36/bnmzsYVz+A" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts121" group-title="Lifestyle" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",Tata Play Fitness
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
