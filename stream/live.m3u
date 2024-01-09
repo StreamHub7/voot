@@ -60,7 +60,10 @@ https://livehub.udx.workers.dev/index.php?c=news18
 https://livehub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
-https://livehub.udx.workers.dev/index.php?c=ddnews
+https://ytlive-laf7.onrender.com/stream?channel=ddnews
+
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://telecomtalk.info/wp-content/uploads/2022/03/dd-india-now-available-on-yupp-tv-1200x675.jpg", DD INDIA HD
+https://ytlive-laf7.onrender.com/stream?channel=ddindia
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://www.financialexpress.com/wp-content/uploads/2020/12/ABP-LIVE.jpg", ABP NEWS
 https://livehub.udx.workers.dev/index.php?c=abpnews
