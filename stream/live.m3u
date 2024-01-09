@@ -313,10 +313,10 @@ http://tgaadi-web.tech/aadi.php?id=2529
 #EXTINF:-1 tvg-id="11562" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS", HUNGAMA TV
 http://tgaadi-web.tech/aadi.php?id=11646
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
-https://livehub.udx.workers.dev/index.php?c=sonyyay
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic Nickelodeon
-https://livehub.udx.workers.dev/index.php?c=sonic
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Junior
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
