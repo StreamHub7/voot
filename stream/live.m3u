@@ -297,8 +297,7 @@ https://livehub.udx.workers.dev/index.php?c=showbox
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
 http://tgaadi-web.tech/aadi.php?id=11633
-#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO
-http://tgaadi-web.tech/aadi.php?id=11666
+
 #EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="KIDS",NICK
 http://tgaadi-web.tech/aadi.php?id=11662
 
