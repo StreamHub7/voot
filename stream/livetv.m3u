@@ -264,7 +264,34 @@ https://streamhub.udx.workers.dev/index.php?c=showbox
 
 
 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK HINDI
+http://tgaadi-web.tech/aadi.php?id=11633
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO HINDI
+http://tgaadi-web.tech/aadi.php?id=11666
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",NICK HINDI
+http://tgaadi-web.tech/aadi.php?id=11662
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="KIDS",SONIC HINDI
+http://tgaadi-web.tech/aadi.php?id=11667
 
+#EXTINF:-1 tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS HINDI 
+http://tgaadi-web.tech/aadi.php?id=641
+#EXTINF:-1 tvg-id="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS",DISNEY HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
+#EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/540px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
+http://tgaadi-web.tech/aadi.php?id=2529
+#EXTINF:-1 tvg-id="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nickelodeon_Logo.svg/800px-Nickelodeon_Logo.svg.png" group-title="KIDS",NICKTOONS
+http://tgaadi-web.tech/aadi.php?id=1839
+#EXTINF:-1 tvg-id="10430" tvg-logo="https://i.pinimg.com/736x/99/9c/cc/999cccfd4367c14a4f72e8ef2b58937f.jpg" group-title="KIDS",PEPPA PIG HINDI
+http://tgaadi-web.tech/aadi.php?id=10514
+
+#EXTINF:-1 tvg-id="63265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVERY KIDS FHD
+http://tgaadi-web.tech/aadi.php?id=134001
+#EXTINF:-1 tvg-id="1014" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TAMIL
+http://tgaadi-web.tech/aadi.php?id=1097
+#EXTINF:-1 tvg-id="976" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="KIDS", SONY YAY TELUGU
+http://tgaadi-web.tech/aadi.php?id=1059
+#EXTINF:-1 tvg-id="11562" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS", HUNGAMA TV
+http://tgaadi-web.tech/aadi.php?id=11646
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
 https://streamhub.udx.workers.dev/index.php?c=sonyyay
 
