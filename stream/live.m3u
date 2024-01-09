@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
+https://ytlive-laf7.onrender.com/stream?channelId=UC0r5GbjNx6U5nO2XB-p19xA
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://go.justflix.tv/images/sports/willowcricketfullhd.png" ,Willow Cricket HD
 https://livehub.udx.workers.dev/index.php?c=willowhd
 
