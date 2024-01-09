@@ -85,6 +85,9 @@ https://stream.udx.workers.dev/index.php?c=ndtvindia
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
 https://streamhub.udx.workers.dev/index.php?c=indianews
 
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
+https://ytlive-laf7.onrender.com/stream?channel=SansadTV
+
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://streamhub.udx.workers.dev/index.php?c=tv9
 
