@@ -278,8 +278,6 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&ex
 #EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/540px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
 http://tgaadi-web.tech/aadi.php?id=2529
 
-#EXTINF:-1 tvg-id="63265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS", DISCOVERY KIDS FHD
-http://tgaadi-web.tech/aadi.php?id=134001
 #EXTINF:-1 tvg-id="11562" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/440px-Hungama_TV.svg.png" group-title="KIDS", HUNGAMA TV
 http://tgaadi-web.tech/aadi.php?id=11646
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
