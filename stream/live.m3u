@@ -87,13 +87,13 @@ https://livehub.udx.workers.dev/index.php?c=news-nation
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
-https://ytlive-laf7.onrender.com/stream?channelId=UC9CYT9gSNLevX5ey2_6CK0Q
+https://ytlive-laf7.onrender.com/stream?id=UC9CYT9gSNLevX5ey2_6CK0Q
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
 https://livehub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
-https://ytlive-laf7.onrender.com/stream?id=UCISgnSNwqQ2i8lhCun3KtQg
+https://ytlive-laf7.onrender.com/stream?ch=sansadtv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://livehub.udx.workers.dev/index.php?c=tv9
