@@ -98,11 +98,14 @@ https://ytlive-laf7.onrender.com/stream?id=UCISgnSNwqQ2i8lhCun3KtQg
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://livehub.udx.workers.dev/index.php?c=tv9
 
-#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png", Zee NEWS UP/UK
+#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://bestmediainfo.com/uploads/2017/12/Zee-UPUK_9.jpg", Zee NEWS UP/UK
 https://news.udx.workers.dev/zeeup/index.m3u8
 
 #EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 UP/UK
 https://livehub.udx.workers.dev/index.php?c=news18up
+
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png",News State UP/UK
+https://ytlive-laf7.onrender.com/stream?id=NewsStateTV
 
 
 
