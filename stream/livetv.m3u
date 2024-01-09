@@ -41,17 +41,26 @@ https://streamhub.udx.workers.dev/index.php?c=ten4
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
 https://streamhub.udx.workers.dev/index.php?c=ten5
 
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="1: AAJTAK HD" tvg-logo="https://smedia2.intoday.in/aajtak/resources/theme_v2/common/images/livetv-share_hd.jpg",AAJ TAK HD
-https://streamhub.udx.workers.dev/index.php?c=aajtak
+https://livehub.udx.workers.dev/index.php?c=aajtak
 
 #EXTINF:0 tvg-id="ZeeNews.uk" group-title="News" tvg-name="2: ZEE NEWS" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/1200px-Zee_news.png",ZEE NEWS
 https://news.udx.workers.dev/zeenews/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
 #EXTINF:0 tvg-id="IBN7.in" group-title="News" tvg-name="3: NEWS 18 INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png",NEWS 18
-https://streamhub.udx.workers.dev/index.php?c=news18
+https://livehub.udx.workers.dev/index.php?c=news18
 
 #EXTINF:0 tvg-id="zee" group-title="News" tvg-name="4: INDIA TV"  tvg-logo= "https://bestmediainfo.com/uploads/2022/10/1666072545.INDIA-TV-LOGO-BLACK.jpg",INDIA TV
-https://streamhub.udx.workers.dev/index.php?c=indiatv
+https://livehub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
 https://ytlive-laf7.onrender.com/stream?ch=ddnews
@@ -60,18 +69,16 @@ https://ytlive-laf7.onrender.com/stream?ch=ddnews
 https://ytlive-laf7.onrender.com/stream?ch=ddindia
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://www.financialexpress.com/wp-content/uploads/2020/12/ABP-LIVE.jpg", ABP NEWS
-https://streamhub.udx.workers.dev/index.php?c=abpnews
+https://livehub.udx.workers.dev/index.php?c=abpnews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="5: TIMES NOW NAVBHARAT"  tvg-logo="https://imgk.timesnownews.com/story/1200x900-04.png",NAVBHARAT TIMES
-https://streamhub.udx.workers.dev/index.php?c=navbharat
+https://livehub.udx.workers.dev/index.php?c=navbharat
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="7: R. BHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg",R. BHARAT
-https://streamhub.udx.workers.dev/index.php?c=rbharat
+https://livehub.udx.workers.dev/index.php?c=rbharat
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://bestmediainfo.com/uploads/2021/06/gnt_logo_9.jpg", GNT NEWS
-https://streamhub.udx.workers.dev/index.php?c=gntnews
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="9: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg", NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://livehub.udx.workers.dev/index.php?c=gntnews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
 https://livehub.udx.workers.dev/index.php?c=news-nation
@@ -80,22 +87,30 @@ https://livehub.udx.workers.dev/index.php?c=news-nation
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
-https://ytlive-laf7.onrender.com/stream?channelId=UC9CYT9gSNLevX5ey2_6CK0Q
+https://ytlive-laf7.onrender.com/stream?id=UC9CYT9gSNLevX5ey2_6CK0Q
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
-https://streamhub.udx.workers.dev/index.php?c=indianews
+https://livehub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
-https://ytlive-laf7.onrender.com/stream?id=UCISgnSNwqQ2i8lhCun3KtQg
+https://ytlive-laf7.onrender.com/stream?ch=sansadtv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
-https://streamhub.udx.workers.dev/index.php?c=tv9
+https://livehub.udx.workers.dev/index.php?c=tv9
 
-#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png", Zee NEWS UP/UK
+#EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://bestmediainfo.com/uploads/2017/12/Zee-UPUK_9.jpg", Zee NEWS UP/UK
 https://news.udx.workers.dev/zeeup/index.m3u8
 
-#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 Uttar Pradesh Uttarakhand
-https://streamhub.udx.workers.dev/index.php?c=news18up
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 UP/UK
+https://livehub.udx.workers.dev/index.php?c=news18up
+
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png",News State UP/UK
+https://ytlive-laf7.onrender.com/stream?ch=NewsStateTV
+
+
+
+
+
 
 
 
