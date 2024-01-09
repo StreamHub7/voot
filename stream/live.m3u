@@ -84,7 +84,7 @@ https://livehub.udx.workers.dev/index.php?c=news-nation
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
-https://ytlive-laf7.onrender.com/stream?channelId=UCZFMm1mMw0F81Z37aaEzTUA
+https://ytlive-laf7.onrender.com/stream?channelId=UC9CYT9gSNLevX5ey2_6CK0Q
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
 https://livehub.udx.workers.dev/index.php?c=indianews
