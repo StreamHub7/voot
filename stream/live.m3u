@@ -101,7 +101,7 @@ https://livehub.udx.workers.dev/index.php?c=tv9
 #EXTINF:-1 tvg-id="NewsStateUPUK.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png", Zee NEWS UP/UK
 https://news.udx.workers.dev/zeeup/index.m3u8
 
-#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 Uttar Pradesh Uttarakhand
+#EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/VcwkEDM.png",News18 UP/UK
 https://livehub.udx.workers.dev/index.php?c=news18up
 
 
