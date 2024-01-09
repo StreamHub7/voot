@@ -80,6 +80,9 @@ https://livehub.udx.workers.dev/index.php?c=rbharat
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://bestmediainfo.com/uploads/2021/06/gnt_logo_9.jpg", GNT NEWS
 https://livehub.udx.workers.dev/index.php?c=gntnews
 
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23011/abp-ganga/logo_20231219_183752_65.png", ABP GANGA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
 https://livehub.udx.workers.dev/index.php?c=news-nation
 
@@ -214,6 +217,9 @@ https://livehub.udx.workers.dev/index.php?c=sonykal
 #EXTINF:-1 group-title="Entertainment" tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png", Colors Rishtey
 https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23017/epic-tv/logo_20231219_201202_64.png" group-title="Entertainment", Epic TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/master.m3u8
+
 
 
 
@@ -268,8 +274,14 @@ https://livehub.udx.workers.dev/index.php?c=mastii
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
 
-#EXTINF:0 tvg-logo="http://karytv.com/wp-content/uploads/2015/05/desi-logo-1024x537.png" group-title="Music", DESI CHENNEL
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23014/desi-tv/logo_20231219_193026_60.png" group-title="Music", Desi Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png" group-title="Music", Pitaara Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/logo_20231219_184445_68.png" group-title="Music", Balle Balle HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg" group-title="Music", Boogle Bollywood
