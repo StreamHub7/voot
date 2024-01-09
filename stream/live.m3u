@@ -222,7 +222,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
+#EXTINF:-1 group-title="English Movies" tvg-id="ComedyCentralIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",Comedy Central HD
+https://livehub.udx.workers.dev/index.php?c=comedycentralhd
 
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png",Colors Infinity HD
+https://livehub.udx.workers.dev/index.php?c=colorsinfinityhd
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&flix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
 https://zee5.udx.workers.dev/0-9-channel_2105335046/index.m3u8
@@ -232,12 +236,6 @@ https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
 
 #EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 group-title="English Movies" tvg-id="ComedyCentralIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png",Comedy Central HD
-https://livehub.udx.workers.dev/index.php?c=comedycentralhd
-
-#EXTINF:-1 group-title="English Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png",Colors Infinity HD
-https://livehub.udx.workers.dev/index.php?c=colorsinfinityhd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" , HBO HD
 https://livehub.udx.workers.dev/index.php?c=hbohd
