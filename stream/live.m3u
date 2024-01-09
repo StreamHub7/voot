@@ -266,8 +266,8 @@ https://dishtv.udx.workers.dev/9x-jalwa/index.m3u8
 #EXTINF:0 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music", 9XM TASHAN
 https://dishtv.udx.workers.dev/9x-tashan/index.m3u8
 
-#EXTINF:0 tvg-logo="https://mastiii.com/images/mastiii-logo-mew.png" group-title="Music", Maatii Music
-https://livehub.udx.workers.dev/index.php?c=mastii
+#EXTINF:0 tvg-logo="https://mastiii.com/images/mastiii-logo-mew.png" group-title="Music", Maatiii Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
@@ -295,14 +295,14 @@ https://livehub.udx.workers.dev/index.php?c=showbox
 
 
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK HINDI
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
 http://tgaadi-web.tech/aadi.php?id=11633
-#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO HINDI
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1164px-POGO-logo.svg.png" group-title="KIDS",POGO
 http://tgaadi-web.tech/aadi.php?id=11666
-#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="KIDS",NICK HINDI
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="KIDS",NICK
 http://tgaadi-web.tech/aadi.php?id=11662
 
-#EXTINF:-1 tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS HINDI 
+#EXTINF:-1 tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/440px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",DISCOVEREY KIDS
 http://tgaadi-web.tech/aadi.php?id=641
 #EXTINF:-1 tvg-id="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS",DISNEY HD
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
@@ -316,7 +316,7 @@ http://tgaadi-web.tech/aadi.php?id=11646
 #EXTINF:0 group-title="Kids" tvg-id="ext" tvg-name="49: SONY YAY" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png", SONY YAY
 https://streamhub.udx.workers.dev/index.php?c=sonyyay
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic Nickelodeon Hindi
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic Nickelodeon
 https://streamhub.udx.workers.dev/index.php?c=sonic
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png", Nick Junior
