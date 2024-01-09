@@ -54,10 +54,10 @@ https://streamhub.udx.workers.dev/index.php?c=news18
 https://streamhub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
-https://ytlive-laf7.onrender.com/stream?channelId=UCKwucPzHZ7zCUIf7If-Wo1g
+https://ytlive-laf7.onrender.com/stream?ch=ddnews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://telecomtalk.info/wp-content/uploads/2022/03/dd-india-now-available-on-yupp-tv-1200x675.jpg", DD INDIA HD
-https://ytlive-laf7.onrender.com/stream?channelId=UCGDQNvybfDDeGTf4GtigXaw
+https://ytlive-laf7.onrender.com/stream?ch=ddindia
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://www.financialexpress.com/wp-content/uploads/2020/12/ABP-LIVE.jpg", ABP NEWS
 https://streamhub.udx.workers.dev/index.php?c=abpnews
@@ -86,7 +86,7 @@ https://ytlive-laf7.onrender.com/stream?channelId=UC9CYT9gSNLevX5ey2_6CK0Q
 https://streamhub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
-https://ytlive-laf7.onrender.com/stream?channelId=UCISgnSNwqQ2i8lhCun3KtQg
+https://ytlive-laf7.onrender.com/stream?id=UCISgnSNwqQ2i8lhCun3KtQg
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://streamhub.udx.workers.dev/index.php?c=tv9
