@@ -108,7 +108,7 @@ https://news.udx.workers.dev/zeeup/index.m3u8
 https://livehub.udx.workers.dev/index.php?c=news18up
 
 #EXTINF:-1 tvg-id="News18UttarPradeshUttarakhand.in" group-title="News" tvg-logo="https://i.imgur.com/dQLaY5N.png",News State UP/UK
-https://ytlive-laf7.onrender.com/stream?ch=NewsStateTV
+https://ytlive.udx.workers.dev/stream/NewsStateTV/index.m3u8
 
 
 
