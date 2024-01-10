@@ -113,6 +113,9 @@ https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png", WION NEWS
 https://news.udx.workers.dev/wion/index.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRTWORLD NEWS
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
 
 
 
