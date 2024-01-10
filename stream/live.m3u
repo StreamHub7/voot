@@ -110,7 +110,7 @@ https://ytlive.udx.workers.dev/stream/NewsStateTV/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD INDIA" tvg-logo="https://telecomtalk.info/wp-content/uploads/2022/03/dd-india-now-available-on-yupp-tv-1200x675.jpg", DD INDIA HD
 https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png", WION NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png", WION NEWS
 https://news.udx.workers.dev/wion/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png", TRTWORLD NEWS
