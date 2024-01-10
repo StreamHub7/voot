@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
-https://ytlive-laf7.onrender.com/stream?ch=NirankariOrgUpdates
+https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://go.justflix.tv/images/sports/willowcricketfullhd.png" ,Willow Cricket HD
 https://livehub.udx.workers.dev/index.php?c=willowhd
@@ -63,10 +63,10 @@ https://livehub.udx.workers.dev/index.php?c=news18
 https://livehub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
-https://ytlive-laf7.onrender.com/stream?ch=ddnews
+https://ytlive.udx.workers.dev/stream/ddnews/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://telecomtalk.info/wp-content/uploads/2022/03/dd-india-now-available-on-yupp-tv-1200x675.jpg", DD INDIA HD
-https://ytlive-laf7.onrender.com/stream?ch=ddindia
+https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://www.financialexpress.com/wp-content/uploads/2020/12/ABP-LIVE.jpg", ABP NEWS
 https://livehub.udx.workers.dev/index.php?c=abpnews
@@ -96,7 +96,7 @@ https://ytlive-laf7.onrender.com/stream?id=UC9CYT9gSNLevX5ey2_6CK0Q
 https://livehub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
-https://ytlive-laf7.onrender.com/stream?ch=sansadtv
+https://ytlive.udx.workers.dev/stream/sansadtv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://livehub.udx.workers.dev/index.php?c=tv9
