@@ -63,10 +63,10 @@ https://livehub.udx.workers.dev/index.php?c=news18
 https://livehub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png", DD NEWS HD
-https://ytlive-laf7.onrender.com/stream?ch=ddnews
+https://ytlive.udx.workers.dev/stream/ddnews/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://telecomtalk.info/wp-content/uploads/2022/03/dd-india-now-available-on-yupp-tv-1200x675.jpg", DD INDIA HD
-https://ytlive-laf7.onrender.com/stream?ch=ddindia
+https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://www.financialexpress.com/wp-content/uploads/2020/12/ABP-LIVE.jpg", ABP NEWS
 https://livehub.udx.workers.dev/index.php?c=abpnews
@@ -80,17 +80,23 @@ https://livehub.udx.workers.dev/index.php?c=rbharat
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://bestmediainfo.com/uploads/2021/06/gnt_logo_9.jpg", GNT NEWS
 https://livehub.udx.workers.dev/index.php?c=gntnews
 
+#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23011/abp-ganga/logo_20231219_183752_65.png", ABP GANGA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg", NEWS NATION
 https://livehub.udx.workers.dev/index.php?c=news-nation
 
 #EXTINF:-1 tvg-chno="652" tvg-name="Zee Hindustan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
+#EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
+https://ytlive-laf7.onrender.com/stream?id=UC9CYT9gSNLevX5ey2_6CK0Q
+
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="13: INDIA NEWS" tvg-logo="https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg", INDIA NEWS
 https://livehub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg", Sansad TV HD
-https://ytlive-laf7.onrender.com/stream?ch=sansadtv
+https://ytlive.udx.workers.dev/stream/sansadtv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg", TV9 BHARATVARSH
 https://livehub.udx.workers.dev/index.php?c=tv9
