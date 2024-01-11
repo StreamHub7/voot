@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/1.png" ,Willow Cricket HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
 https://livehub.udx.workers.dev/index.php?c=willowhd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design.png" , Astro Cricket HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design.png" , Astro Cricket HD
 https://livehub.udx.workers.dev/index.php?c=astrocricket
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
@@ -18,10 +18,10 @@ https://livehub.udx.workers.dev/index.php?c=ssp2
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
 https://livehub.udx.workers.dev/index.php?c=sports18
 
-#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/2.png",Sports 18 Khel HD
+#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/2.png",Sports 18 Khel HD
 https://livehub.udx.workers.dev/index.php?c=sports18khel
 
-#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(1).png",Jio Cinema
+#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema
 https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 
@@ -37,7 +37,7 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(2).png" group-title="Sports",Sony TEN 4 HD
+#EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(2).png" group-title="Sports",Sony TEN 4 HD
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 
@@ -74,10 +74,10 @@ https://livehub.udx.workers.dev/index.php?c=navbharat
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="7: R. BHARAT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",R. BHARAT
 https://livehub.udx.workers.dev/index.php?c=rbharat
 
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(3).png", GNT NEWS
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="10: GNT NEWS" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(3).png", GNT NEWS
 https://livehub.udx.workers.dev/index.php?c=gntnews
 
-#EXTINF: -1 tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(19).png", ABP GANGA
+#EXTINF: -1 tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(19).png", ABP GANGA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png", NEWS NATION
@@ -113,7 +113,7 @@ https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png", WION NEWS
 https://news.udx.workers.dev/wion/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(6).png", TRTWORLD NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(6).png", TRTWORLD NEWS
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
@@ -123,7 +123,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", Star Gold HD
 https://livehub.udx.workers.dev/index.php?c=stargoldhd
 
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(7).png", Star Gold Select HD
+#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(7).png", Star Gold Select HD
 https://livehub.udx.workers.dev/index.php?c=stargoldselect
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
@@ -138,7 +138,7 @@ https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
 #EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
 https://zee5.udx.workers.dev/0-9-tvpictureshd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(8).png" group-title="HINDI",Star Gold Thrill
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(8).png" group-title="HINDI",Star Gold Thrill
 http://go.justflix.tv:80/client106/strawbees7/27
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
@@ -147,7 +147,7 @@ https://zee5.udx.workers.dev/0-9-209/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",CC Bollywood
 https://livehub.udx.workers.dev/index.php?c=ccbollywood
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(9).png", CC Superhits
+#EXTINF:-1 group-title="Movies" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(9).png", CC Superhits
 https://livehub.udx.workers.dev/index.php?c=ccsuperhits
 
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png",Sony MAX
@@ -168,7 +168,7 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" ,B4u Movies
 https://livehub.udx.workers.dev/index.php?c=b4umovies
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
 
 #EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11586-j9jyt26w-v1/imageContent-11586-j9jyt26w-m1.png" group-title="PUNJABI", Mh1 HD
@@ -215,16 +215,16 @@ https://zee5.udx.workers.dev/0-9-tvhd_0/index.m3u8
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", SONY SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
-#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="38: SONY PAL" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(17).png", SONY PAL
+#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="38: SONY PAL" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(17).png", SONY PAL
 https://livehub.udx.workers.dev/index.php?c=sonypal
 
-#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="39: SONY KAL" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(16).png", SONY KAL
+#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="39: SONY KAL" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(16).png", SONY KAL
 https://livehub.udx.workers.dev/index.php?c=sonykal
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="ColorsRishteyAsia.in" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(15).png", Colors Rishtey
+#EXTINF:-1 group-title="Entertainment" tvg-id="ColorsRishteyAsia.in" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(15).png", Colors Rishtey
 https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 
-#EXTINF: -1 tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(18).png" group-title="Entertainment", Epic TV
+#EXTINF: -1 tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(18).png" group-title="Entertainment", Epic TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic-tv/master.m3u8
 
 
@@ -235,22 +235,22 @@ https://livehub.udx.workers.dev/index.php?c=comedycentralhd
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",Colors Infinity HD
 https://livehub.udx.workers.dev/index.php?c=colorsinfinityhd
 
-#EXTINF:-1 tvg-chno="488" tvg-name="&flix" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(14).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
+#EXTINF:-1 tvg-chno="488" tvg-name="&flix" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(14).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
 https://zee5.udx.workers.dev/0-9-channel_2105335046/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="&prive HD" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(13).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &prive HD 
+#EXTINF:-1 tvg-chno="488" tvg-name="&prive HD" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(13).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &prive HD 
 https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
 
-#EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX HD
+#EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png", SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(12).png" , HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(12).png" , HBO HD
 https://livehub.udx.workers.dev/index.php?c=hbohd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" , Movies Now
 https://livehub.udx.workers.dev/index.php?c=starmovies
 
-#EXTINF:-1,group-title="EXTRA CHANNELS" tvg-logo="https://github.com/StreamHub7/voot/blob/main/stream/Untitled%20design%20(11).png", Star Movies HD
+#EXTINF:-1,group-title="EXTRA CHANNELS" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(11).png", Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 
