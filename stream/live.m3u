@@ -274,22 +274,22 @@ http://go.justflix.tv:80/client106/strawbees7/57
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music", 9XM JALWA
 https://dishtv.udx.workers.dev/9x-jalwa/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music", 9XM TASHAN
+#EXTINF:0 tvg-logo="https://livetvhub.vercel.app/stream/3.png" group-title="Music", 9XM TASHAN
 https://dishtv.udx.workers.dev/9x-tashan/index.m3u8
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music", Maatiii Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" group-title="Music", Music India
+#EXTINF:-1 tvg-logo="https://livetvhub.vercel.app/stream/4.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23014/desi-tv/logo_20231219_193026_60.png" group-title="Music", Desi Channel
+#EXTINF: -1 tvg-logo="https://livetvhub.vercel.app/stream/5.png" group-title="Music", Desi Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/desi-tv/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png" group-title="Music", Pitaara Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/logo_20231219_184445_68.png" group-title="Music", Balle Balle HD
+#EXTINF: -1 tvg-logo="https://livetvhub.vercel.app/stream/6.png" group-title="Music", Balle Balle HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 
 
@@ -297,7 +297,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png" group-title="Music", Show Box
+#EXTINF:0 tvg-logo="https://livetvhub.vercel.app/stream/7.png" group-title="Music", Show Box
 https://livehub.udx.workers.dev/index.php?c=showbox
 
 
@@ -317,7 +317,7 @@ http://tgaadi-web.tech/aadi.php?id=641
 #EXTINF:-1 tvg-id="28" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="KIDS",DISNEY HD
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
 
-#EXTINF:-1 tvg-id="29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/540px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
+#EXTINF:-1 tvg-id="29" tvg-logo="https://livetvhub.vercel.app/stream/8.png" group-title="KIDS",DISNEY XD
 http://tgaadi-web.tech/aadi.php?id=2529
 
 
