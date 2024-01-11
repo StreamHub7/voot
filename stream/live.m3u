@@ -25,15 +25,15 @@ https://livehub.udx.workers.dev/index.php?c=sports18khel
 https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 
-#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
+#EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony  TEN 2 HD
+#EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",Sony  TEN 2 HD
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
+#EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sports",Sony TEN 3 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 
@@ -41,7 +41,7 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 
-#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
+#EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
@@ -120,57 +120,49 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
-
-
-#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png", SONY TV HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png", SONY MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://i.imgur.com/Hvvjfk5.png",Colors Cineplex HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 tvg-chno="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
-https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
-
-#EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
-https://zee5.udx.workers.dev/0-9-tvpictureshd/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png", Star Gold HD
+#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", Star Gold HD
 https://livehub.udx.workers.dev/index.php?c=stargoldhd
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg", Star Gold Select HD
 https://livehub.udx.workers.dev/index.php?c=stargoldselect
 
+#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-chno="165" tvg-name="Zee Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
+https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
+
+#EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
+https://zee5.udx.workers.dev/0-9-tvpictureshd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="HINDI",Star Gold Thrill
 http://go.justflix.tv:80/client106/strawbees7/27
 
-#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Mh-one.png" group-title="PUNJABI", Mh1 HD
-http://go.justflix.tv:80/client106/strawbees7/181
-
-#EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
+#EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
 https://zee5.udx.workers.dev/0-9-209/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://i.imgur.com/EbHSQAJ.png",CC Bollywood
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",CC Bollywood
 https://livehub.udx.workers.dev/index.php?c=ccbollywood
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://v3img.voot.com/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg", CC Superhits
 https://livehub.udx.workers.dev/index.php?c=ccsuperhits
 
-#EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV - CodeCrafters",Sony MAX
+#EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png",Sony MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF:-1 tvg-chno="1839" tvg-name="And Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
+#EXTINF:-1 tvg-chno="1839" tvg-name="And Pictures" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
 https://zee5.udx.workers.dev/0-9-pictures/index.m3u8
 
-#EXTINF:-1 tvg-chno="484" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
+#EXTINF:-1 tvg-chno="484" tvg-name="Zee Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
 https://zee5.udx.workers.dev/0-9-zeecinema/index.m3u8
 
 #EXTINF:-1 tvg-chno="585" tvg-name="Zing" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zing 
 https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 
-#EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png", SONY MAX 2
+#EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="http://go.justflix.tv/images/indialogo/INUKB4UPLUS.png" ,B4u Movies
@@ -178,6 +170,9 @@ https://livehub.udx.workers.dev/index.php?c=b4umovies
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
+
+#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11586-j9jyt26w-v1/imageContent-11586-j9jyt26w-m1.png" group-title="PUNJABI", Mh1 HD
+http://go.justflix.tv:80/client106/strawbees7/181
 
 #EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
 https://zee5.udx.workers.dev/0-9-zeeanmolcinema/index.m3u8
@@ -191,23 +186,30 @@ https://zee5.udx.workers.dev/0-9-zeeaction/index.m3u8
 #EXTINF:-1 tvg-chno="488" tvg-name="Zee Classic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Zee-Classic-Logo.jpg"  tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
 https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://exchange4media.gumlet.io/news-photo/1518144333_MALtTY_unnamed.jpg",Star Plus HD
+
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
 https://livehub.udx.workers.dev/index.php?c=starplushd
 
-#EXTINF:-1 tvg-name="Star Bharat India HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png",Star Bharat India HD
+#EXTINF:-1 tvg-name="Star Bharat India HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat India HD
 https://livehub.udx.workers.dev/index.php?c=starbharat
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png",Colors TV HD
+#EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",Colors TV HD
 https://livehub.udx.workers.dev/index.php?c=colorshd
 
-#EXTINF:-1 tvg-chno="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
+#EXTINF:-1 tvg-chno="167" tvg-name="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
 https://zee5.udx.workers.dev/0-9-zeetvhd/index.m3u8
+
+#EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png", SONY TV HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png", SONY WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", And TV HD 
+#EXTINF:-1 tvg-chno="472" tvg-name="And TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment", And TV HD 
 https://zee5.udx.workers.dev/0-9-tvhd_0/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/d4/Sony_Sab_new_logo.png", SONY SAB HD
