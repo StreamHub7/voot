@@ -278,7 +278,7 @@ https://dishtv.udx.workers.dev/9x-jalwa/index.m3u8
 https://dishtv.udx.workers.dev/9x-tashan/index.m3u8
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music", Maatiii Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/playlist.m3u8
+https://dai.google.com/linear/hls/event/AFkxKSZESjKiGktbjVq7vQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://livetvhub.vercel.app/stream/4.png" group-title="Music", Music India
 https://dishtv.udx.workers.dev/music-india/index.m3u8
