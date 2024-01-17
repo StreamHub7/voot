@@ -15,7 +15,7 @@ https://livehub.udx.workers.dev/index.php?c=ssp1hin
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
 https://livehub.udx.workers.dev/index.php?c=sports18
 
-#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema
+#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema HD
 https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema 4k FHD
