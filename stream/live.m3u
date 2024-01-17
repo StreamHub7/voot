@@ -132,6 +132,9 @@ https://livehub.udx.workers.dev/index.php?c=stargoldselect
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://livetvhub.vercel.app/stream/miniplex.png", MINIPLEX HD
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156020&extension=ts&play_token=oBwOqQaOKg
+
 #EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
