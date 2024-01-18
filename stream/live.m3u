@@ -19,8 +19,7 @@ https://livehub.udx.workers.dev/index.php?c=sports18
 https://livehub.udx.workers.dev/index.php?c=jiocinema
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema 4k FHD
-https://prod-sports-hin-cf.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_t2003170124/master.m3u8
-# https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" ,Star Sports 2 India HD
 https://livehub.udx.workers.dev/index.php?c=ssp2
