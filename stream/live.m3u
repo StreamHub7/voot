@@ -144,7 +144,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(8).png" group-title="HINDI",Star Gold Thrill
-http://go.justflix.tv:80/client106/strawbees7/27
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155996&extension=ts&play_token=oBwOqQaOKg
+# http://go.justflix.tv:80/client106/strawbees7/27
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
 https://zee5.udx.workers.dev/0-9-209/index.m3u8
@@ -253,7 +254,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://livehub.udx.workers.dev/index.php?c=hbohd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png" , Movies Now
-https://livehub.udx.workers.dev/index.php?c=starmovies
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156022&extension=ts&play_token=oBwOqQaOKg
+# https://livehub.udx.workers.dev/index.php?c=starmovies
 
 #EXTINF:-1,group-title="EXTRA CHANNELS" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(11).png", Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
