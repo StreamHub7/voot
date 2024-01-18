@@ -65,7 +65,7 @@ https://livehub.udx.workers.dev/index.php?c=news18
 https://livehub.udx.workers.dev/index.php?c=indiatv
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD NEWS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11333-j9joxlw8-v2/imageContent-11333-j9joxlw8-m2.png", DD NEWS HD
-https://ytlive.udx.workers.dev/stream/ddnews/index.m3u8
+https://ytlive.iptvhub.workers.dev/stream/ddnews/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png", ABP NEWS
 https://livehub.udx.workers.dev/index.php?c=abpnews
@@ -95,7 +95,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 https://livehub.udx.workers.dev/index.php?c=indianews
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png", Sansad TV HD
-https://ytlive.udx.workers.dev/stream/sansadtv/index.m3u8
+https://ytlive.iptvhub.workers.dev/stream/sansadtv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png", TV9 BHARATVARSH
 https://livehub.udx.workers.dev/index.php?c=tv9
@@ -107,10 +107,10 @@ https://news.udx.workers.dev/zeeup/index.m3u8
 https://livehub.udx.workers.dev/index.php?c=news18up
 
 #EXTINF:-1  group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png",News State UP/UK
-https://ytlive.udx.workers.dev/stream/NewsStateTV/index.m3u8
+https://ytlive.iptvhub.workers.dev/stream/NewsStateTV/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="11: DD INDIA" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png", DD INDIA HD
-https://ytlive.udx.workers.dev/stream/ddindia/index.m3u8
+https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9000-j7rkz0m0-v1/imageContent-9000-j7rkz0m0-m1.png", WION NEWS
 https://news.udx.workers.dev/wion/index.m3u8
