@@ -173,7 +173,7 @@ https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" ,B4u Movies
-https://livehub.udx.workers.dev/index.php?c=b4umovies
+http://tgaadi-web.tech/TG_AADI.php?id=10609
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
