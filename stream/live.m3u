@@ -14,7 +14,7 @@ http://tgaadi-web.tech/TG_AADI.php?id=11126
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
 https://livehub.udx.workers.dev/index.php?c=sports18
 
-#EXTINF:-1 tvg-id="59569" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ALL IN ONE - CRICKET", JIO CRICKET ENGLISH
+#EXTINF:-1 tvg-id="59569" tvg-logo="https://livetvhub.vercel.app/stream/jio.png", JIO CRICKET HD
 http://tgaadi-web.tech/aadi.php?id=59775
 # https://livehub.udx.workers.dev/index.php?c=jiocinema
 
