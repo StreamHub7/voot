@@ -71,8 +71,8 @@ https://ytlive.iptvhub.workers.dev/stream/ddnews/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="8: ABP NEWS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png", ABP NEWS
 https://livehub.udx.workers.dev/index.php?c=abpnews
 
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="5: TIMES NOW NAVBHARAT"  tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png", NAVBHARAT TIMES
-https://livehub.udx.workers.dev/index.php?c=navbharat
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-name="5: TIMES NOW NAVBHARAT"  tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png", NAVBHARAT TIMES HD
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="7: R. BHARAT" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",R. BHARAT
 https://livehub.udx.workers.dev/index.php?c=rbharat
