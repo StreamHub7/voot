@@ -91,7 +91,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-774-j5m3h6nk-v1/imageContent-774-j5m3h6nk-m1.png", INDIA NEWS
 https://livehub.udx.workers.dev/index.php?c=indianews
 
-#EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-825-j5m9c6c0-v2/imageContent-825-j5m9c6c0-m2.png", Sansad TV HD
+#EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://livetvhub.vercel.app/stream/sansadtv.png", Sansad TV HD
 https://ytlive.iptvhub.workers.dev/stream/sansadtv/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="14: TV9 BHARATVARSH" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png", TV9 BHARATVARSH
