@@ -317,7 +317,8 @@ http://tgaadi-web.tech/aadi.php?id=11633
 http://tgaadi-web.tech/aadi.php?id=11662
 
 #EXTINF:-1 tvg-id="24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="KIDS",DISCOVEREY KIDS
-http://tgaadi-web.tech/aadi.php?id=641
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+
 #EXTINF:-1 tvg-id="28" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="KIDS",DISNEY HD
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156000&extension=ts&play_token=oBwOqQaOKg
 
