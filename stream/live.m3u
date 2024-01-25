@@ -9,6 +9,7 @@ https://hls.streambtw.com/live/stream_e1.m3u8
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
 http://tgaadi-web.tech/Aadi.php?id=12149
+# http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155966&extension=ts&play_token=oBwOqQaOKg
 # https://livehub.udx.workers.dev/index.php?c=ssp1hin
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
@@ -19,7 +20,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc
 # https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" ,Star Sports 2 India HD
-http://tgaadi-web.tech/Aadi.php?id=12150
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155966&extension=ts&play_token=oBwOqQaOKg
+# http://tgaadi-web.tech/Aadi.php?id=12150
 # https://livehub.udx.workers.dev/index.php?c=ssp2
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/2.png",Sports 18 Khel HD
@@ -142,7 +144,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(8).png" group-title="HINDI",Star Gold Thrill
-http://tgaadi-web.tech/Aadi.php?id=232269
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156005&extension=ts&play_token=oBwOqQaOKg
+# http://tgaadi-web.tech/Aadi.php?id=232269
 # http://go.justflix.tv:80/client106/strawbees7/27
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
@@ -170,7 +173,7 @@ https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" ,B4u Movies
-http://tgaadi-web.tech/TG_AADI.php?id=10609
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155987&extension=ts&play_token=oBwOqQaOKg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
