@@ -1,7 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
-https://ytlive.iptvhub.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
+https://pub-37350e103d1f4ccab85d6164397ea96d.r2.dev/samagam/day1/output.m3u8
+# https://ytlive.iptvhub.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
 https://hls.streambtw.com/live/stream_e1.m3u8
