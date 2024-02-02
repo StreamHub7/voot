@@ -90,7 +90,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png", NEWS NATION
 https://livehub.udx.workers.dev/index.php?c=news-nation
 
-#EXTINF:-1 tvg-chno="652" tvg-name="Zee Hindustan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
+#EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
@@ -139,13 +139,13 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-chno="165" tvg-name="Zee Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
+#EXTINF:-1  tvg-name="Zee Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
+#EXTINF:-1 tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
+#EXTINF:-1 tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
 https://zee5.udx.workers.dev/0-9-209/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",CC Bollywood
@@ -157,13 +157,13 @@ https://livehub.udx.workers.dev/index.php?c=ccsuperhits
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png",Sony MAX
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF:-1 tvg-chno="1839" tvg-name="And Pictures" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
+#EXTINF:-1 tvg-name="And Pictures" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="484" tvg-name="Zee Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zing 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zing 
 https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 
 #EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
@@ -175,16 +175,16 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155987&ex
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
 
-#EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
+#EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="487" tvg-name="Zee Bollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood 
+#EXTINF:-1 tvg-name="Zee Bollywood" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Bollywood 
 https://zee5.udx.workers.dev/0-9-zeeclassic/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="Zee Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action 
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Action 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png"  tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
+#EXTINF:-1 tvg-name="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png"  tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Classic 
 https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
 
@@ -204,7 +204,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifes
 #EXTINF:-1 group-title="Entertainment" tvg-id="Colors.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",Colors TV HD
 https://livehub.udx.workers.dev/index.php?c=colorshd
 
-#EXTINF:-1 tvg-chno="167" tvg-name="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="SONY TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png", SONY TV HD
@@ -214,7 +214,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="472" tvg-name="And TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment", And TV HD 
+#EXTINF:-1 tvg-name="And TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment", And TV HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", SONY SAB HD
@@ -237,10 +237,10 @@ https://livehub.udx.workers.dev/index.php?c=comedycentralhd
 #EXTINF:-1 group-title="English Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",Colors Infinity HD
 https://livehub.udx.workers.dev/index.php?c=colorsinfinityhd
 
-#EXTINF:-1 tvg-chno="488" tvg-name="&flix" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(14).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
+#EXTINF:-1  tvg-name="&flix" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(14).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &flix HD 
 https://zee5.udx.workers.dev/0-9-channel_2105335046/index.m3u8
 
-#EXTINF:-1 tvg-chno="488" tvg-name="&prive HD" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(13).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &prive HD 
+#EXTINF:-1 tvg-name="&prive HD" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(13).png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &prive HD 
 https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
 
 #EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png", SONY PIX HD
@@ -354,11 +354,11 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png", Nick HD+
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-chno="593" tvg-name="Sadhna" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11746-j9kwfmfs-v2/imageContent-11746-j9kwfmfs-m2.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/593/index.m3u8" catchup-days="7", Sadhna 
+#EXTINF:-1 tvg-name="Sadhna" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11746-j9kwfmfs-v2/imageContent-11746-j9kwfmfs-m2.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/593/index.m3u8" catchup-days="7", Sadhna 
 https://livehub.udx.workers.dev/index.php?c=sadhna
 
 
-#EXTINF:-1 tvg-chno="175" tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/175/index.m3u8" catchup-days="7", Aastha 
+#EXTINF:-1 tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/175/index.m3u8" catchup-days="7", Aastha 
 https://livehub.udx.workers.dev/index.php?c=asthatv
 
 
