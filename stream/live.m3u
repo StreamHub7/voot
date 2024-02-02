@@ -136,9 +136,6 @@ https://livehub.udx.workers.dev/index.php?c=stargoldselect
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://livetvhub.vercel.app/stream/miniplex.png", MINIPLEX HD
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156020&extension=ts&play_token=oBwOqQaOKg
-
 #EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 
@@ -147,11 +144,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
 #EXTINF:-1 tvg-chno="185" tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thrill" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(8).png" group-title="HINDI",Star Gold Thrill
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=156005&extension=ts&play_token=oBwOqQaOKg
-# http://tgaadi-web.tech/Aadi.php?id=232269
-# http://go.justflix.tv:80/client106/strawbees7/27
 
 #EXTINF:-1 tvg-chno="488" tvg-name="&Xplor" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", &Xplor 
 https://zee5.udx.workers.dev/0-9-209/index.m3u8
@@ -182,9 +174,6 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155987&ex
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
-
-#EXTINF:-1 tvg-id=""  Mh One Shradha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11586-j9jyt26w-v1/imageContent-11586-j9jyt26w-m1.png" group-title="PUNJABI", Mh1 HD
-http://go.justflix.tv:80/client106/strawbees7/181
 
 #EXTINF:-1 tvg-chno="415" tvg-name="Zee Anmol Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11090-j95hdh6o-v1/imageContent-11090-j95hdh6o-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Anmol Cinema 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
