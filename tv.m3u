@@ -6,7 +6,7 @@
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=78
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=1131
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
