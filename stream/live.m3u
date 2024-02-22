@@ -1,11 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+# https://hls.streambtw.com/live/stream_e1.m3u8
+# https://livehub.udx.workers.dev/index.php?c=willowhd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=1131
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
-https://hls.streambtw.com/live/stream_e1.m3u8
-# https://livehub.udx.workers.dev/index.php?c=willowhd
+https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=78
@@ -21,7 +24,7 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifes
 https://livehub.udx.workers.dev/index.php?c=sports18
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema 4k FHD
-https://jiocinema.udx.workers.dev/?test=2&start=2&end=6
+https://jiocinema.udx.workers.dev/?test=3&start=15&end=19
 # https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -93,7 +96,7 @@ https://livehub.udx.workers.dev/index.php?c=news-nation
 #EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
 https://news.udx.workers.dev/zeehindustan/index.m3u8
 
-#EXTINF:-1 tvg-chno="258" tvg-name="NDTV India" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/258/index.m3u8" catchup-days="7", NDTV India 
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-774-j5m3h6nk-v1/imageContent-774-j5m3h6nk-m1.png", INDIA NEWS
@@ -137,10 +140,10 @@ https://livehub.udx.workers.dev/index.php?c=stargoldselect
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",Colors Cineplex HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+https://livehub.udx.workers.dev/index.php?c=colorscineplex
 
 #EXTINF:-1  tvg-name="Zee Cinema HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+https://zee5.udx.workers.dev/0-9-zeecinemahd/index.m3u8
 
 #EXTINF:-1 tvg-name="And Pictures HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
@@ -169,8 +172,10 @@ https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="B4u Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png" ,B4u Movies
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=155987&extension=ts&play_token=oBwOqQaOKg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=7
+#EXTINF:-1 tvg-id="ts7" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
@@ -229,6 +234,11 @@ https://livehub.udx.workers.dev/index.php?c=sonykal
 #EXTINF:-1 group-title="Entertainment" tvg-id="ColorsRishteyAsia.in" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(15).png", Colors Rishtey
 https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=888
+#EXTINF:-1 tvg-id="888" tvg-logo="https://tatalogo.pages.dev/888.png" group-title="Entertainment",Ishara
+https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+
 
 
 #EXTINF:-1 group-title="English Movies" tvg-id="ComedyCentralIndia.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",Comedy Central HD
@@ -256,10 +266,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music", MTV BEATS HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+https://livehub.udx.workers.dev/index.php?c=mtvbeatshd
 
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music", MTV HD+
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+https://livehub.udx.workers.dev/index.php?c=mtvhd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=139
@@ -278,6 +288,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manife
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png" group-title="Music", 9XM JALWA
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/manifest.mpd
 
+
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png" group-title="Music", Maatiii Music
 https://dai.google.com/linear/hls/event/AFkxKSZESjKiGktbjVq7vQ/master.m3u8
 
@@ -286,14 +297,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png" group-title="Music", Pitaara Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/master.m3u8
-
-#EXTINF: -1 tvg-logo="https://livetvhub.vercel.app/stream/6.png" group-title="Music", Balle Balle HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-
-
-#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49636-k6lo3yfc-v1/imageContent-49636-k6lo3yfc-m1.png" group-title="Music", Boogle Bollywood
-https://live.wmncdn.net/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-
 
 #EXTINF:0 tvg-logo="https://livetvhub.vercel.app/stream/7.png" group-title="Music", Show Box
 https://livehub.udx.workers.dev/index.php?c=showbox
@@ -362,5 +365,4 @@ https://livehub.udx.workers.dev/index.php?c=sadhna
 
 #EXTINF:-1 tvg-name="Aastha" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional" catchup="vod" catchup-source="http://192.168.1.4:3500/catchup/getm3u8/${start}/${end}/175/index.m3u8" catchup-days="7", Aastha 
 https://livehub.udx.workers.dev/index.php?c=asthatv
-
 
