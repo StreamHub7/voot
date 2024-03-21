@@ -161,7 +161,7 @@ https://livehub.udx.workers.dev/index.php?c=ccsuperhits
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
 #EXTINF:-1 tvg-name="And Pictures" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", And Pictures 
-https://zee5.udx.workers.dev/0-9-tvpictures/index.m3u8
+https://zee5.udx.workers.dev/0-9-pictures/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinema 
 https://zee5.udx.workers.dev/0-9-zeecinema/index.m3u8
