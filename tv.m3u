@@ -257,7 +257,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2111
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f212033abf53d08e769c/images/512.webp" group-title="Airtel Xtream | Movies",Star Movies Select HD
-https://tataplay.udx.workers.dev/?type=url&id=2105
+https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 
 
