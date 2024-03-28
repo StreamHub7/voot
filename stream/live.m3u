@@ -128,13 +128,15 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2107
+#EXTINF:-1 tvg-id="ts245" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4a3033abf53d08e9137/images/252.webp" group-title="Airtel Xtream | Movies",Star Gold HD
+https://livea.streamready.in/stargoldhd/smil:common.smil/manifest.mpd
 
-
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", Star Gold HD
-https://livehub.udx.workers.dev/index.php?c=stargoldhd
-
-#EXTINF:0 tvg-id="ext" group-title="Movies" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(7).png", Star Gold Select HD
-https://livehub.udx.workers.dev/index.php?c=stargoldselect
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2137
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1db033abf53d08e7429/images/167.webp" group-title="Airtel Xtream | Movies",Star Gold Select HD
+https://livea.streamready.in/stargoldselecthd/smil:common.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
@@ -197,9 +199,9 @@ https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=8
-#EXTINF:-1 tvg-id="ts8" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",STAR Plus HD
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2109
+#EXTINF:-1 tvg-id="ts8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp" group-title="Airtel Xtream | Entertainment",Star Plus HD
+https://livea.streamready.in/starplushd/smil:common.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=244
@@ -256,8 +258,11 @@ https://zee5.udx.workers.dev/0-9-privéhd/index.m3u8
 #EXTINF:0 group-title="English Movies" tvg-id="ext" tvg-name="31: SONY PIX" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png", SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1,group-title="EXTRA CHANNELS" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(11).png", Star Movies HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2111
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f212033abf53d08e769c/images/512.webp" group-title="Airtel Xtream | Movies",Star Movies Select HD
+https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 
 
