@@ -11,15 +11,14 @@ https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=78
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2102
 #EXTINF:-1 tvg-id="ts78" group-title="Sports" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD
-# https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
-https://jiocinema.udx.workers.dev/?lang=eng
+https://tataplay.udx.workers.dev/?type=url&id=2102
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2105
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2105
 #EXTINF:-1 tvg-id="ts24" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports 1 HD Hindi
-https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd
+https://tataplay.udx.workers.dev/?type=url&id=2105
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
 https://livehub.udx.workers.dev/index.php?c=sports18
@@ -130,14 +129,14 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2107
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2107
 #EXTINF:-1 tvg-id="ts245" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4a3033abf53d08e9137/images/252.webp" group-title="Airtel Xtream | Movies",Star Gold HD
-https://livea.streamready.in/stargoldhd/smil:common.smil/manifest.mpd
+https://tataplay.udx.workers.dev/?type=key&id=2107
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2137
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2137
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1db033abf53d08e7429/images/167.webp" group-title="Airtel Xtream | Movies",Star Gold Select HD
-https://livea.streamready.in/stargoldselecthd/smil:common.smil/manifest.mpd
+https://tataplay.udx.workers.dev/?type=url&id=2137
 
 #EXTINF:0 tvg-id="ext" group-title="Movies" tvg-name="15: SONY MAX HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png", SONY MAX HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
@@ -175,11 +174,6 @@ https://zee5.udx.workers.dev/0-9-zing/index.m3u8
 #EXTINF:0 group-title="Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=7
-#EXTINF:-1 tvg-id="ts7" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U Movies
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
 
@@ -200,9 +194,9 @@ https://zee5.udx.workers.dev/0-9-176/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2109
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2109
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp" group-title="Airtel Xtream | Entertainment",Star Plus HD
-https://livea.streamready.in/starplushd/smil:common.smil/manifest.mpd
+https://tataplay.udx.workers.dev/?type=url&id=2105
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=244
@@ -238,7 +232,7 @@ https://livehub.udx.workers.dev/index.php?c=sonykal
 https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=888
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=888
 #EXTINF:-1 tvg-id="888" tvg-logo="https://tatalogo.pages.dev/888.png" group-title="Entertainment",Ishara
 https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
 
@@ -261,9 +255,9 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/Atv.php?id=2111
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2111
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f212033abf53d08e769c/images/512.webp" group-title="Airtel Xtream | Movies",Star Movies Select HD
-https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
+https://tataplay.udx.workers.dev/?type=url&id=2105
 
 
 
