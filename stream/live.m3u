@@ -235,7 +235,8 @@ https://livehub.udx.workers.dev/index.php?c=colorsrishtey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=888
 #EXTINF:-1 tvg-id="888" tvg-logo="https://tatalogo.pages.dev/888.png" group-title="Entertainment",Ishara
-https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+#https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd
+https://EPIConvh.s.llnwi.net/ishaara/master_1080.m3u8
 
 
 
