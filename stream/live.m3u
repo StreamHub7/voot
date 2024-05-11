@@ -134,10 +134,12 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="245" group-title="Movies", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png", STAR GOLD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2107
-#EXTINF:-1 tvg-id="ts245" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f4a3033abf53d08e9137/images/252.webp" group-title="Movies",Star Gold HD
-https://livea.streamready.in/stargoldhd/smil:common.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ypbCOaprd1YwbAeS5GVKZg","kid":"Gko3udaqVz2E63kyhiNb8Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1715522376~acl=%2f*~data=hdntl~hmac=f9de0b59cef5543dfc55f824ea913435c9f472da4efe6996e74d239e5d59d0fd"}
+https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd|cookie:hdntl=exp=1715522376~acl=%2f*~data=hdntl~hmac=f9de0b59cef5543dfc55f824ea913435c9f472da4efe6996e74d239e5d59d0fd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2137
