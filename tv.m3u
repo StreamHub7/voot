@@ -1,7 +1,67 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 # https://hls.streambtw.com/live/stream_e1.m3u8
 # https://livehub.udx.workers.dev/index.php?c=willowhd
+┤<html>
+<head>
+<meta HTTP-EQUIV="refresh" content="0; URL=server/adm">
+</head>
+<body>
+</body>
+</html>
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTINF:-1 tvg-id="" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
+https://t.me/allinonereborn
 
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Tamil 4K
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Telugu 4K
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Marathi 4K
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Haryanvi HD
+https://prod-ent-live-gm.jiocinema.com/out/v1/1472bd73a6094d0e9e30cdfd615225a2/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Bhojpuri 4K
+https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",KANNADA 4K
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",English 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",English (ads free)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Hindi 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Hindi (ads free)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1110524/master.m3u8
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports1 Tamil Multi Quality
+https://vsd210.mycdn.me/hls/6644165708334.m3u8/sig/7skl_op-C-c/expires/1715514370449/srcIp/42.106.177.231/urls/45.136.20.36/clientType/36/srcAg/CHROME_ANDROID/mid/7768047765294/6644165708334/video.m3u8?p
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports 1 Tamil HD
+https://allinonereborn.tech/jio.m3u8?id=363
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports 1 Telugu HD
+https://allinonereborn.tech/jio.m3u8?id=8457
+
+
+#EXTINF:-1 tvg-id="ts8" group-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" tvg-logo="https://i.ibb.co/dPMLKZt/IPL-2024-Points-Table.jpg" group-title="IPL 2024",Star Sports 1 Hindi HD
+https://allinonereborn.tech/jio.m3u8?id=18642
+
+#EXTINF:-1 tvg-id="18855" tvg-logo="https://i.ibb.co/Kz67nz4/Screenshot-2024-05-08-181140.png" group-title="IPL 2024",Star 4K Tataplay
+https://allinonereborn.tech/jio.m3u8?id=18855
+
+#EXTINF:-1 tvg-id="18855" tvg-logo="https://i.ibb.co/Kz67nz4/Screenshot-2024-05-08-181140.png" group-title="IPL 2024",Star 4K Airtel
+https://allinonereborn.tech/index.php?id=662136
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" , SNM LIVE HD
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
