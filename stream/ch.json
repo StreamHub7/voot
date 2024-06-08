@@ -1968,16 +1968,7 @@
         "key": [
             "06341bf3dd635e6ca5c71188d0210373:2c6d9ccbf866eee8c42dcf9c343f179b"
         ],
-        "channel_key": {
-            "keys": [
-                {
-                    "kty": "oct",
-                    "k": "LG2cy/hm7ujELc+cND8Xmw",
-                    "kid": "BjQb891jXmylxxGI0CEDcw"
-                }
-            ],
-            "type": "temporary"
-        }
+        "channel_key": {"keys":[{"kty":"oct","k":"o2iqwOKj6wyYzJLUTXKYsA","kid":"4/p3lrwTWJax6FxysXtauw"}],"type":"temporary"}
     },
     {
         "channel_id": "246",
