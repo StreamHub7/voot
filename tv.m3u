@@ -6,16 +6,14 @@
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=1131
+##KODIPROP:inputstream.adaptive.license_key=475d7932b5f352bb92016b75b60c58fa:ea37faa137ae8f644105c4fcc189a35f
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 
-#EXTINF:-1 tvg-id="78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.au/tp/tpck?id=78
-#EXTVLCOPT:http-user-agent=third-party
-https://la.drmlive.au/tp/index.php?id=78
+#KODIPROP:inputstream.adaptive.license_key=ab912c57a335564f866295c349ad3f91:85c284f5db424aaffd356cfd23fffb86
+#EXTINF:-1 tvg-id="24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png", Star Sports 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd?begin=20240530T010000&end=20240606T160000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
