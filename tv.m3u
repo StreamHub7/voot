@@ -11,6 +11,10 @@ https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd?%7cdrmScheme=clearkey&drmLicense=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
 # https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
+https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd?%7cdrmScheme=clearkey&drmLicense=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
+
 #EXTINF:-1 tvg-id="78" group-title="T20 World Cup", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mM7fYDvy6vCaAREGumoygA","kid":"BErMUpvuVS+u/i4foXT+Pw"}],"type":"temporary"}
