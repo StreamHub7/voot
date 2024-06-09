@@ -216,7 +216,7 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 https://zee5.udx.workers.dev/0-9-tvhd_0/index.m3u8
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="37: SONY SAB HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png", SONY SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+https://livehub.udx.workers.dev/?c=sonysab
 
 #EXTINF:0 group-title="Entertainment" tvg-id="ext" tvg-name="38: SONY PAL" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(17).png", SONY PAL
 https://livehub.udx.workers.dev/index.php?c=sonypal
