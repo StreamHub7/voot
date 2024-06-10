@@ -11,14 +11,16 @@ https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?id=78
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=78
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+https://tp.denver1769.workers.dev/tplay/78.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef2c6152828e5e459abbadee2063c0c8:8a6c6f53ddf9c69a47e57cfc361cc5f8
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=24
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
-https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+#EXTVLCOPT:http-user-agent=Denver1769
+https://tp.denver1769.workers.dev/tplay/24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
