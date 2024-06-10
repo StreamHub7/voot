@@ -97,7 +97,7 @@ https://livehub.udx.workers.dev/index.php?c=gntnews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ganga/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News" tvg-name="12: NEWS NATION" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-114-j5fl632o-v1/imageContent-114-j5fl632o-m1.png", NEWS NATION
-https://livehub.udx.workers.dev/index.php?c=news-nation
+https://ytlive.udx.workers.dev/stream/NewsNationTV/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Hindustan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Hindustan 
 https://news.udx.workers.dev/zeehindustan/index.m3u8
