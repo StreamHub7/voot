@@ -10,6 +10,11 @@ https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
 https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af85963ef14b54eb830a09482d30608a:0cdb2af38a2c207ada2bc21736a4d15b
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" , SS1 Hindi HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?begin=20240530T010000&end=20240606T160000
+
 #EXTINF:-1 tvg-id="78" group-title="T20 World Cup" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png", Star Sports 1 HD
 https://livehub.udx.workers.dev/?c=ssp1
 
