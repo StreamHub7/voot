@@ -43,23 +43,23 @@ https://jiocinema.udx.workers.dev/?lang=hin
 https://livehub.udx.workers.dev/index.php?c=sports18khel
 
 #EXTINF:-1 tvg-id="sony1000009276" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="Sports",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+https://livehub.udx.workers.dev/index.php?c=sonyten1
 
 
 #EXTINF:-1 tvg-id="sony1000009277" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="Sports",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+https://livehub.udx.workers.dev/index.php?c=sonyten2
 
 
 #EXTINF:-1 tvg-id="sony1000009278" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="Sports",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+https://livehub.udx.workers.dev/index.php?c=sonyten3
 
 
 #EXTINF:-1 tvg-id="sony1000119186" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(2).png" group-title="Sports",Sony TEN 4 HD
-https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+https://livehub.udx.workers.dev/index.php?c=sonyten4
 
 
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="Sports",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+https://livehub.udx.workers.dev/index.php?c=sonyten5
 
 
 
