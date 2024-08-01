@@ -6,9 +6,9 @@
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=475d7932b5f352bb92016b75b60c58fa:ea37faa137ae8f644105c4fcc189a35f
+#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:3-sponsoredd2a43c841d80d52d6f8
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png" ,Willow Cricket HD
-https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
+https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=78
