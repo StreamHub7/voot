@@ -11,12 +11,12 @@ https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?id=78
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qCIXwgvT0_6f7zPQ2PktBQ","kid":"vclgldhBWJSGUx8kh7pdiw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports",Star Sports 1 HD
 https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/toxicify.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?id=24
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fU6Tqp2FejDBtwQ_rhSpuw","kid":"iHknGDw7Wt-LzDg0Ga_EmA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/toxicify.mpd
 
