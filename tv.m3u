@@ -180,7 +180,7 @@ https://livehub.udx.workers.dev/?c=sonymax
 #EXTINF:0 group-title="Hindi Movies" tvg-id="ext" tvg-name="16: SONY MAX 2" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png", SONY MAX 2
 https://livehub.udx.workers.dev/index.php?c=sonymax2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png" , Shemaroo Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(10).png"  group-title="Hindi Movies", Shemaroo Bollywood HD
 https://livehub.udx.workers.dev/index.php?c=shemaroo
 
 
