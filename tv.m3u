@@ -187,10 +187,12 @@ https://livehub.udx.workers.dev/index.php?c=shemaroo
 
 
 
+#EXTINF:-1 tvg-id="8" group-title="Entertainment", tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png", STAR Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?type=key&id=2109
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978a2c5625a16ee72e905/images/144.webp" group-title="Entertainment",Star Plus HD
-https://livea.streamready.in/starplushd/smil:common.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"icI3g7XpREad4eimE4hScA","kid":"GiAASsfjWj-FytdcekxR9Q"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"cookie":"hdntl=exp=1722730377~acl=%2f*~data=hdntl~hmac=57f2a5555d9b575bfc0598819b825bbe8e0d0b9c06e5e4c971a6497af1f6146a"}
+https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/toxicify.mpd|cookie:hdntl=exp=1722730377~acl=%2f*~data=hdntl~hmac=57f2a5555d9b575bfc0598819b825bbe8e0d0b9c06e5e4c971a6497af1f6146a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.udx.workers.dev/?provider=iptvhub&id=244
