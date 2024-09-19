@@ -6,9 +6,9 @@
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#KODIPROP:inputstream.adaptive.license_key=07df1f3f0c424641a477dab0cf9fedf8:720fb6a23a29bf60a2d86f33e8969b7a
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png"  group-title="Sports" ,Willow Cricket HD
-https://live.psliveapp.site/ps_mpd_api/channel(astrocricket)/ps_manifest.mpd
+https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/929eb2f29fa64a8eb741a0d0f336bef9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qCIXwgvT0_6f7zPQ2PktBQ","kid":"vclgldhBWJSGUx8kh7pdiw"}],"type":"temporary"}
