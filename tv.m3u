@@ -14,12 +14,16 @@ https://livehub.udx.workers.dev/index.php?c=ssp1
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports",Star Sports 1 Hindi HD
 https://livehub.udx.workers.dev/index.php?c=ssp1hin
 
-#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
-https://livehub.udx.workers.dev/index.php?c=sports18
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=913680cbb31c57ae4004ec030b5ec223:5ea27cc20c4fa3474e67c1a8083e45c9
+#EXTINF:-1 tvg-id=ts1070 group-logo="https://i.ibb.co/qydztTm/images-5.png" tvg-logo="https://i.ibb.co/qydztTm/images-5.png" group-title="Women T20",Prime Hindi
+https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema 4k FHD
-https://livehub.udx.workers.dev/index.php?c=ssp1
-# https://prod-sports-north-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+https://livehub.udx.workers.dev/index.php?c=jiocinema
+
+#EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" ,Sports 18 HD
+https://livehub.udx.workers.dev/index.php?c=sports18
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/2.png",Sports 18 Khel HD
 https://livehub.udx.workers.dev/index.php?c=sports18khel
