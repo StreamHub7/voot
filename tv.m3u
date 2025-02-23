@@ -20,9 +20,9 @@ https://livehub.udx.workers.dev/index.php?c=ssp1
 https://livehub.udx.workers.dev/index.php?c=ssp1hin
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=913680cbb31c57ae4004ec030b5ec223:5ea27cc20c4fa3474e67c1a8083e45c9
+#KODIPROP:inputstream.adaptive.license_key=4a5191838da17a2ab771f4258fad347f:54b7a084437459368eed07d182ad644c
 #EXTINF:-1 tvg-id=ts1070 group-logo="https://i.ibb.co/qydztTm/images-5.png" tvg-logo="https://i.ibb.co/qydztTm/images-5.png" group-title="Sports",Prime Hindi
-https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cikydktuif/out/v1/c0373ca1f8a441c29bb4dbb193c4a39c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l2xzhgmjur/out/v1/fe9782633a364a6a84c9410f26d9b2c4/cenc.mpd
 
 #EXTINF:0 tvg-id="ts24" group-title="Sports" tvg-logo="https://livetvhub.vercel.app/stream/Untitled%20design%20(1).png",Jio Cinema 4k FHD
 https://livehub.udx.workers.dev/index.php?c=jiocinema
