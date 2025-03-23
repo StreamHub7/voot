@@ -5,8 +5,15 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nirankari.org/wp-content/uploads/2021/06/SNM.png" group-title="Devotional"  , SNM LIVE HD
 https://ytlive.udx.workers.dev/stream/NirankariOrgUpdates/index.m3u8?event=26
 
+
+
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvhub.vercel.app/stream/1.png"  group-title="Sports" ,Willow Cricket HD
-https://livehub.udx.workers.dev/index.php?c=willowhd
+# #EXTINF:-1 tvg-id=ts1070 group-logo="" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="IPL",Willow Sports (mpd source)
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+# https://livehub.udx.workers.dev/index.php?c=willowhd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
